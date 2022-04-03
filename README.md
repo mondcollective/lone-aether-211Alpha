@@ -8,7 +8,7 @@
 
 + Boats! (5 Iron, 4 Wood) traverse through the sea!
 
-+ "World Options" in the Pause Menu
++ "World Options" added in the Pause Menu
   - Let's you view your world info
   - View the world seed
   - Can change the world gamemode
